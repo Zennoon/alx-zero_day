@@ -1,0 +1,1 @@
+This is the directory for my first git related project. Inside, you will find my submission for the tasks of the 1-git project
